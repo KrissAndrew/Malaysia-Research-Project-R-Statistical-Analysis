@@ -1,0 +1,69 @@
+﻿forest_type,block,family,genera,Count of trees,tree_dbh_cm,tree_height_m,basal_area_m2,volume_m3
+10 year old,1,Moraceae,artocarpus,1,27.00,26.79,0.05726,0.64420
+10 year old,1,Dipterocarpaceae,hopea,3,4.40,6.12,0.00153,0.00397
+10 year old,1,Dipterocarpaceae,shorea,7,14.57,17.82,0.02176,0.22594
+10 year old,2,Meliaceae,azadirachta,1,6.50,8.26,0.00332,0.01150
+10 year old,2,Dipterocarpaceae,dipterocarpus,1,7.50,8.53,0.00442,0.01580
+10 year old,2,Dipterocarpaceae,hopea,3,8.87,11.15,0.00736,0.04733
+10 year old,2,Fabaceae,intsia,1,7.70,9.07,0.00466,0.01770
+10 year old,2,Euphorbiaceae,macaranga,1,12.50,15.52,0.01227,0.08000
+10 year old,2,Dipterocarpaceae,shorea,4,10.28,12.73,0.01050,0.09280
+10 year old,2,Myrtaceae,syzgium,1,5.60,7.22,0.00246,0.00750
+10 year old,3,Meliaceae,azadirachta,1,6.20,9.94,0.00302,0.01260
+10 year old,3,Apocynaceae,dyera,1,23.50,18.42,0.04337,0.33560
+10 year old,3,Dipterocarpaceae,hopea,5,7.44,8.85,0.00483,0.02088
+10 year old,3,Euphorbiaceae,macaranga,3,9.97,11.63,0.00957,0.05927
+10 year old,3,Dipterocarpaceae,shorea,1,5.70,8.90,0.00255,0.00950
+10 year old,3,Myrtaceae,syzgium,1,14.00,9.80,0.01539,0.06330
+21 year old,1,Dipterocarpaceae,hopea,7,11.36,11.54,0.01112,0.06317
+21 year old,1,Dipterocarpaceae,shorea,4,17.40,17.74,0.02616,0.21200
+21 year old,2,Lauraceae,cinnamomum,3,13.40,12.13,0.02506,0.23953
+21 year old,2,Dipterocarpaceae,hopea,6,18.03,17.33,0.02914,0.22875
+21 year old,2,Dipterocarpaceae,shorea,1,16.10,15.88,0.02036,0.13580
+21 year old,3,Fabaceae,acacia,1,51.80,23.93,0.21074,2.11770
+21 year old,3,Rubiaceae,aidia,1,25.50,13.52,0.05107,0.29000
+21 year old,3,Lauraceae,cinnamomum,4,27.23,18.04,0.05917,0.45538
+21 year old,3,Myrtaceae,eugenia,1,8.50,5.67,0.00567,0.01350
+21 year old,3,Dipterocarpaceae,hopea,1,22.60,20.59,0.04011,0.34700
+21 year old,3,Rubiaceae,morinda,1,5.30,5.46,0.00221,0.00510
+21 year old,3,Dipterocarpaceae,shorea,1,33.60,23.39,0.08867,0.87120
+5 year old,1,Dipterocarpaceae,dipterocarpus,2,7.50,5.95,0.00443,0.01100
+5 year old,1,Elaeocarpaceae,elaeocarpus,1,15.60,16.13,0.01911,0.12950
+5 year old,1,Cannabaceae,gironniera,1,20.50,17.66,0.03301,0.24480
+5 year old,1,Ixonanthaceae,ixonanthes,1,20.60,17.24,0.03333,0.24140
+5 year old,1,Rhizophoraceae,pellacalyx,1,25.10,23.10,0.04948,0.48010
+5 year old,1,Dipterocarpaceae,shorea,4,7.45,7.26,0.00520,0.02168
+5 year old,1,Annonoideae,xylopia,1,32.10,21.37,0.08093,0.72640
+5 year old,2,Thymelaeaceae,aquilaria,1,14.70,13.09,0.01697,0.09330
+5 year old,2,Phyllanthaceae,baccaurea,1,12.40,11.80,0.01208,0.05990
+5 year old,2,Euphorbiaceae,elateriospermum,1,12.70,13.22,0.01267,0.07030
+5 year old,2,Fagaceae,lithocarpus,1,22.10,17.88,0.03836,0.28800
+5 year old,2,Rubiaceae,poterandia,1,11.70,13.56,0.01075,0.06120
+5 year old,2,Dipterocarpaceae,shorea,3,8.07,6.67,0.00517,0.01447
+5 year old,2,Annonaceae,xylopia,1,23.40,20.02,0.04301,0.36160
+5 year old,3,Moraceae,artocarpus,1,12.70,19.55,0.01267,0.10400
+5 year old,3,Phyllanthaceae,baccaurea,1,23.90,19.66,0.04486,0.37040
+5 year old,3,Euphorbiaceae,elateriospermum,1,13.70,13.09,0.01474,0.08110
+5 year old,3,Rhizophoraceae,pellacalyx,3,12.60,16.27,0.01516,0.11127
+5 year old,3,Dipterocarpaceae,shorea,2,5.65,7.38,0.00251,0.00780
+5 year old,3,Moraceae,streblus,1,9.30,12.10,0.00679,0.03450
+5 year old,3,Myrtaceae,syzgium,1,22.30,17.85,0.03906,0.29280
+secondary,1,Rubiaceae,aidia,2,9.75,10.31,0.00774,0.03920
+secondary,1,Phyllanthaceae,antidesma,1,5.50,11.31,0.00238,0.01130
+secondary,1,Clusiaceae,garcinia,1,9.00,14.33,0.00636,0.03830
+secondary,1,Rhizophoraceae,pellacalyx,6,13.15,14.46,0.01963,0.15875
+secondary,1,Melastomataceae ,pternandra,2,16.80,18.95,0.02455,0.21345
+secondary,2,Burseraceae,canarium,2,7.05,10.00,0.00420,0.02075
+secondary,2,Euphorbiaceae,endospermum,2,53.00,32.26,0.22447,3.02910
+secondary,2,Moraceae,ficus,1,4.60,6.49,0.00166,0.00450
+secondary,2,Cannabaceae,gironniera,2,9.90,9.29,0.00878,0.04360
+secondary,2,Rhizophoraceae,pellacalyx,4,10.68,15.22,0.01025,0.07598
+secondary,2,Sapotaceae,pouteria,1,8.20,11.69,0.00528,0.02590
+secondary,2,Melastomataceae ,pternandra,2,10.65,13.94,0.00894,0.05255
+secondary,3,Rubiaceae,aidia,1,4.20,7.82,0.00139,0.00460
+secondary,3,Phyllanthaceae,antidesma,1,6.20,8.03,0.00302,0.01020
+secondary,3,Anacardiaceae,campnosperma,1,4.50,7.39,0.00159,0.00490
+secondary,3,Ebenaceae,diospyros,1,5.10,4.26,0.00204,0.00370
+secondary,3,Euphorbiaceae,endospermum,1,52.30,29.07,0.21483,2.62250
+secondary,3,Rhizophoraceae,pellacalyx,5,14.80,17.63,0.01965,0.15792
+secondary,3,Myrtaceae,rhodamnia,1,4.90,10.56,0.00189,0.00840

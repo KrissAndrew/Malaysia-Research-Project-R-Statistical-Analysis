@@ -1,0 +1,86 @@
+﻿forest_site,family,species,count,lifeform,fruit_type ,Dispersal
+21 year old,Fabaceae,Acacia trifoliate,3,seedling,legume,explosive
+21 year old,Lauraceae,Cinnamomun iners,3,seedling,berry,Animal
+10 year old,Thymelaeaceae,Gonystylus confusus,2,seedling,capsule,Animal
+10 year old,Actinidiaceae,Saurauia trystila,18,seedling,berry,Animal
+10 year old,Euphorbiaceae,Blumeodendron calophyllum,3,seedling,schizocarp,Animal
+10 year old,Fabaceae,Acacia manegiun,2,seedling,legume,explosive 
+5 year old,Melastomataceae,Clidmeia hrta,9,seedling,berry,Animal
+5 year old,Phyllanthaceae,Phyllanthus pulcher,6,seedling,capsule,Animal 
+5 year old,Dipterocarpaceae,Anisopter costata,3,seedling,samara,Wind
+5 year old,Sapindaceae,Lohgan Dimocarpus,1,seedling,capsule,Animal
+5 year old,Malvaceae,Microcos tomentosa,3,seedling,schizocarp,Animal
+5 year old,Euphorbiaceae,Agrostistachys longifolia,2,seedling,schizocarp,Animal
+secondary,Euphorbiaceae.,Exoercaria cochincinensis,3,seedling,schizocarp,Animal
+secondary,Moraceae,Ficus fitulosa,3,seedling,drupe,Animal
+secondary,Moraceae,Ficus grossulariso,3,seedling,drupe,Animal
+secondary,Rutaceae,Murraya koenigii,3,seedling,berry,Animal
+secondary,Meliaceae,Swieteina macrophylia,3,seedling,capsule,Animal
+10 year old,Moraceae,Artocarpus,1,tree,drupe,Animal
+10 year old,Dipterocarpaceae,Hopea,3,tree,samara,Wind
+10 year old,Dipterocarpaceae,Shorea,7,tree,samara,Wind
+10 year old,Meliaceae,Azadirachta,1,tree,capsule,Animal
+10 year old,Dipterocarpaceae,Dipterocarpus,1,tree,samara,Wind
+10 year old,Dipterocarpaceae,Hopea,3,tree,samara,Wind
+10 year old,Fabaceae,Intsia,1,tree,legume,explosive
+10 year old,Euphorbiaceae,Macaranga,1,tree,schizocarp,Animal
+10 year old,Dipterocarpaceae,Shorea,4,tree,samara,Wind
+10 year old,Myrtaceae,syzgium,1,tree,berry,Animal
+10 year old,Meliaceae,Azadirachta,1,tree,capsule,Animal
+10 year old,Apocynaceae,Dyera,1,tree,berry,Animal
+10 year old,Dipterocarpaceae,Hopea,5,tree,samara,Wind
+10 year old,Euphorbiaceae,Macaranga,3,tree,schizocarp,Animal
+10 year old,Dipterocarpaceae,Shorea,1,tree,samara,Wind
+10 year old,Myrtaceae,syzgium,1,tree,berry,Animal
+21 year old,Dipterocarpaceae,Hopea,7,tree,samara,Wind
+21 year old,Dipterocarpaceae,Shorea,4,tree,samara,Wind
+21 year old,Lauraceae,Cinnamomum,3,tree,berry,Animal
+21 year old,Dipterocarpaceae,Hopea,6,tree,samara,Wind
+21 year old,Dipterocarpaceae,Shorea,1,tree,samara,Wind
+21 year old,Fabaceae,Acacia,1,tree,legume,explosive
+21 year old,Rubiaceae,Aidia,1,tree,berry,Animal
+21 year old,Lauraceae,Cinnamomum,4,tree,berry,Animal
+21 year old,Myrtaceae,Eugenia,1,tree,berry,Animal
+21 year old,Dipterocarpaceae,Hopea,1,tree,samara,Wind
+21 year old,Rubiaceae,Morinda,1,tree,berry,Animal
+21 year old,Dipterocarpaceae,Shorea,1,tree,samara,Wind
+5 year old,Dipterocarpaceae,Dipterocarpus,2,tree,samara,Wind
+5 year old,Elaeocarpaceae,Elaeocarpus,1,tree,berry,Animal
+5 year old,Cannabaceae,Gironniera,1,tree,drupe,Animal
+5 year old,Ixonanthaceae,Ixonanthes,1,tree,capsule,Animal
+5 year old,Rhizophoraceae,Pellacalyx,1,tree,berry,Animal
+5 year old,Dipterocarpaceae,Shorea,4,tree,samara,Wind
+5 year old,Annonaceae,Xylopia,1,tree,pepo,explosive
+5 year old,Thymelaeaceae,Aquilaria,1,tree,capsule,Animal
+5 year old,Phyllanthaceae,Baccaurea,1,tree,capsule,Animal
+5 year old,Euphorbiaceae,Elateriospermum,1,tree,schizocarp,Animal
+5 year old,Fagaceae,Lithocarpus,1,tree,nut,Animal
+5 year old,Rubiaceae,Poterandia,1,tree,berry,Animal
+5 year old,Dipterocarpaceae,Shorea,3,tree,samara,Wind
+5 year old,Annonaceae,Xylopia,1,tree,pepo,Wind
+5 year old,Moraceae,Artocarpus,1,tree,drupe,Animal
+5 year old,Phyllanthaceae,Baccaurea,1,tree,capsule,Animal
+5 year old,Euphorbiaceae,Elateriospermum,1,tree,schizocarp,Animal
+5 year old,Rhizophoraceae,Pellacalyx,3,tree,berry,Animal
+5 year old,Dipterocarpaceae,Shorea,2,tree,samara,Wind
+5 year old,Moraceae,Streblus,1,tree,drupe,Animal
+5 year old,Myrtaceae,Syzgium,1,tree,berry,Animal
+secondary,Rubiaceae,Aidia,2,tree,berry,Animal
+secondary,Phyllanthaceae,Antidesma,1,tree,capsule,Animal
+secondary,Clusiaceae,Garcinia,1,tree,hesperidium,Wind
+secondary,Rhizophoraceae,Pellacalyx,6,tree,berry,Animal
+secondary,Melastomataceae ,Pternandra,2,tree,berry,Animal
+secondary,Burseraceae,Canarium,2,tree,drupe,Animal
+secondary,Euphorbiaceae,Endospermum,2,tree,schizocarp,Animal
+secondary,Moraceae,Ficus,1,tree,drupe,Animal
+secondary,Cannabaceae,Gironniera,2,tree,drupe,Animal
+secondary,Rhizophoraceae,Pellacalyx,4,tree,berry,Animal
+secondary,Sapotaceae,Pouteria,1,tree,berry,Animal
+secondary,Melastomataceae ,Pternandra,2,tree,berry,Animal
+secondary,Rubiaceae,Aidia,1,tree,berry,Animal
+secondary,Phyllanthaceae,Antidesma,1,tree,berry,Animal
+secondary,Anacardiaceae,Campnosperma,1,tree,drupe,Animal
+secondary,Ebenaceae,Diospyros,1,tree,berry,Animal
+secondary,Euphorbiaceae,Endospermum,1,tree,schizocarp,Animal
+secondary,Rhizophoraceae,Pellacalyx,5,tree,berry,Animal
+secondary,Myrtaceae,Rhodamnia,1,tree,berry,Animal
